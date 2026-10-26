@@ -1,0 +1,6 @@
+{
+  "name": "NutriTrack - Diet & Calorie Logger",
+  "description": "Comprehensive diet, macronutrient, and calorie logging with daily nutritional breakdown, progress tracking, and MongoDB storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
